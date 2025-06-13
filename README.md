@@ -13,7 +13,7 @@ BatchLama.exe "deepseek-r1:7b, Your answer mustn't be more then 50 words, When G
 Put model name first, then system prompt and then your prompt.
 
 > [!IMPORTANT]
-> NEVER, I said NEVER use "," cuz this is how in C# code(source) works:
+> NEVER, I said NEVER use "," cuz this is how C# code(source) works:
 > ```csharp
 > var input = args[0];
 > var words = input.Split(',');
