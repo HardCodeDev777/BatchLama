@@ -1,1 +1,2 @@
 *.bat linguist-detectable=true
+*.bat linguist-language=BatchFile
