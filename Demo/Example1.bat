@@ -5,4 +5,7 @@ echo BatchLama.exe "deepseek-r1:7b, Your answer mustn't be more then 50 words, W
 echo 2. Then put your .bat file and BatchLama.exe in the same directory.
 echo 3. Run Ollama and then your .bat
 
+echo Btw this is AI response from prompt:
+BatchLama.exe "deepseek-r1:7b, Your answer mustn't be more then 50 words, When GitHub was created"
+
 pause
