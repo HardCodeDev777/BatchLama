@@ -1,2 +1,1 @@
-
-*.cs linguist-detectable=false
+*.bat linguist-detectable=true
