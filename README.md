@@ -1,7 +1,5 @@
 # 💻🦙 BatchLama
 
-> GitHub linguist thinks that there's no batch files, I hate him🤠
-
 ## 🚀 Overview
 
 **BatchLama** allows you to communicate with LLMs locally via Ollama in Batch! Example:
